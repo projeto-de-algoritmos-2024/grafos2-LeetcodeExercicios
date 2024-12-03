@@ -18,6 +18,8 @@ Temas:
 
 ## Sobre
 
+Assista ao vídeo de explicação: https://drive.google.com/file/d/1bEO5FOKlKT9n0HMel_W_QsrGcQxu9Vbr/view?usp=sharing
+
 O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de grafos visto em aula.
 
 ## Screenshots
